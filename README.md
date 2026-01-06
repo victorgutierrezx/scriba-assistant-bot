@@ -84,11 +84,13 @@ python main.py
 
 ## 📁 Estructura del Proyecto
 
-telegram_bot/
-├── .env                 # Variables de entorno (Token y Key)
-├── main.py              # Lógica del bot y conexión con OpenAI
-├── requirements.txt     # Dependencias
-└── README.md
+    telegram_bot/
+    ├── .env                 # Variables de entorno (Token y Key)
+    ├── main.py              # Lógica del bot y conexión con OpenAI
+    ├── requirements.txt     # Dependencias
+    └── README.md
+
+
 
 ------------------------------------------------------------------------
 
