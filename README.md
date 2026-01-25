@@ -28,8 +28,8 @@ Herramienta de automatización desarrollada en **Python** que actúa como un asi
 ### 1. Clonar el repositorio
 
 ```bash
-git clone [https://github.com/victorgutierrezx/telegram-ai-bot.git](https://github.com/victorgutierrezx/telegram-ai-bot.git)
-cd telegram-ai-bot
+git clone [https://github.com/victorgutierrezx/scriba-assistant-bot.git](https://github.com/victorgutierrezx/scriba-assistant-bot.git)
+cd scriba-assistant-bot
 ```
 
 ### 2. Crear y activar entorno virtual
